@@ -1,0 +1,6 @@
+{
+  "name": "Railway Signal Incident Tracker",
+  "description": "Report. Validate. Classify. Dispatch. Resolve. Automata-validated railway signal incident tracking, routing, and escalation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
